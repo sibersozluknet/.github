@@ -1,4 +1,4 @@
-![](https://i.ibb.co/WzT3nvn/20220417-002349.png)
+![](https://i.ibb.co/3RhYGDP/20220417-003531.png)
 Sibersözlük, internet ve siber güvenlik dünyasında bulunan tüm argümanları ve terimleri kullanıcılarına en doğru kaynaklardan derleyerek sunar. Sunduğu bu argümanları her okurun erişebilmesi için yayınlar ve yayınladığı bu konuların üst sıralarda görünmesi için çabalar.
 
 Genel olarak yayınlanan içerikler;
