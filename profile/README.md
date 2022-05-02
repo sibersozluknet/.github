@@ -11,3 +11,5 @@ Genel olarak yayınlanan içerikler;
 gibi kategoriler ile listelenir. Ayrıca [Analiz.Sibersozluk](https://analiz.sibersozluk.net) adlı altyapısı ile tüm kullanıcılara domain analiz ve whois sorgulama gibi ücretsiz hizmetler sunar.
 
 Tüm soru-görüşlerinizi, sponsorluk anlaşmaları ve abuse bildirimlerini [bu mail](https://sibersozluk.net/iletisim) adresine ileterek bizlere yardımcı olabilirsiniz.
+
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/cjsi.svg)](https://betteruptime.com/?utm_source=status_badge)
