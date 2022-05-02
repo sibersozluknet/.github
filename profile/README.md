@@ -12,4 +12,4 @@ gibi kategoriler ile listelenir. Ayrıca [Analiz.Sibersozluk](https://analiz.sib
 
 Tüm soru-görüşlerinizi, sponsorluk anlaşmaları ve abuse bildirimlerini [bu mail](https://sibersozluk.net/iletisim) adresine ileterek bizlere yardımcı olabilirsiniz.
 
-[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/cjsi.svg)](https://betteruptime.com/?utm_source=status_badge)
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/cjsi.svg)](https://betteruptime.com/?utm_source=status_badge) ![](https://komarev.com/ghpvc/?username=sibersozluknet&color=F44336&label=Görüntüleme)
