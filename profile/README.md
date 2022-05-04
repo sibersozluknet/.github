@@ -1,5 +1,5 @@
 ![](https://i.ibb.co/gz2WJrx/20220417-011804.png)
-Sibersözlük, internet ve siber güvenlik dünyasında bulunan tüm argümanları ve terimleri kullanıcılarına en doğru kaynaklardan derleyerek sunar. Sunduğu bu argümanları her okurun erişebilmesi için yayınlar ve yayınladığı bu konuların üst sıralarda görünmesi için çabalar.
+Siber Sözlük, internet ve siber güvenlik dünyasında bulunan tüm argümanları ve terimleri kullanıcılarına en doğru kaynaklardan derleyerek sunar. Sunduğu bu argümanları her okurun erişebilmesi için yayınlar ve yayınladığı bu konuların üst sıralarda görünmesi için çabalar.
 
 Genel olarak yayınlanan içerikler;
 - Sunucu Yönetimi (sysadmin)
